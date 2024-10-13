@@ -1,0 +1,36 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Creditos science play">
+<g id="Ellipse 124" filter="url(#filter0_i_1871_9779)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12 24C18.6274 24 24 18.6274 24 12C24 5.37258 18.6274 0 12 0C5.37258 0 0 5.37258 0 12C0 18.6274 5.37258 24 12 24Z" fill="url(#paint0_radial_1871_9779)"/>
+</g>
+<g id="Ellipse 125" filter="url(#filter1_d_1871_9779)">
+<path d="M12.0311 18.0991C10.3082 18.0991 8.97386 17.075 8.46885 16.6243C8.37714 16.544 8.27986 16.5064 8.17897 16.5128C8.06251 16.52 7.95078 16.5862 7.83044 16.7228L7.65339 16.9579L7.65228 16.9599C7.41131 17.2899 7.62949 17.4713 7.72927 17.5538C8.03027 17.8289 9.65175 19.2 12.0117 19.2C14.4214 19.2 16.4573 17.538 16.4573 15.5706C16.4573 13.2855 14.8002 12.2746 11.9364 11.2998C9.91995 10.6452 8.7529 9.9594 8.7529 8.39074C8.7529 7.201 9.7543 5.92046 11.953 5.92046C13.3374 5.92046 14.5481 6.66643 14.7855 6.82153C15.1407 7.03321 15.338 6.77351 15.4103 6.67719L15.567 6.42412C15.7057 6.2072 15.6632 5.98421 15.4497 5.82442C15.3894 5.78275 13.9483 4.79999 11.9725 4.79999C8.73956 4.79999 7.56584 6.95814 7.56584 8.40896C7.56584 10.8356 9.33462 11.6539 11.4733 12.4048C13.898 13.2209 15.2118 13.9732 15.2118 15.6095C15.2118 16.959 13.7552 18.0991 12.0311 18.0991Z" fill="white"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_i_1871_9779" x="-0.5" y="-0.5" width="24.5" height="24.5" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="-0.5" dy="-0.5"/>
+<feGaussianBlur stdDeviation="0.25"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_1871_9779"/>
+</filter>
+<filter id="filter1_d_1871_9779" x="6.54297" y="3.79999" width="9.91406" height="15.4" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="-0.5" dy="-0.5"/>
+<feGaussianBlur stdDeviation="0.25"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1871_9779"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1871_9779" result="shape"/>
+</filter>
+<radialGradient id="paint0_radial_1871_9779" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(12 12) rotate(90) scale(12)">
+<stop offset="0.595" stop-color="#FFB45E"/>
+<stop offset="1" stop-color="#FD9B2A"/>
+</radialGradient>
+</defs>
+</svg>

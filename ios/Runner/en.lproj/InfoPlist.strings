@@ -1,0 +1,3 @@
+NSCameraUsageDescription = "The app needs access to your camera to set up the user's profile picture.";
+NSPhotoLibraryUsageDescription = "The app needs access to your photo library to set up the user's profile picture.";
+NSMicrophoneUsageDescription = "The app needs access to your microphone to play audiobooks correctly.";
